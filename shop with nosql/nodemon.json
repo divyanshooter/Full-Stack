@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER":"divyanshu",
+        "MONGO_PASSWORD":"divyanshu",
+        "MONGO_DB":"shop",
+        "API":"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"
+    }
+}
