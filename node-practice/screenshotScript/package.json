@@ -1,0 +1,14 @@
+{
+  "name": "screenshotsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Divyanshu Chaturvedi",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.0.0"
+  }
+}
